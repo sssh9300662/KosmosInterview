@@ -1,0 +1,12 @@
+com.payeasy.pcashclose.service.bean.domain
+com.payeasy.pcashclose.service.bean.domain.impl
+com.payeasy.pcashclose.service.bean.service
+com.payeasy.pcashclose.service.bean.service.impl
+com.payeasy.pcashclose.service.command
+com.payeasy.pcashclose.service.command.impl
+com.payeasy.pcashclose.service.dao.jdbc
+com.payeasy.pcashclose.service.dao.jdbc.impl
+com.payeasy.pcashclose.service.dto
+com.payeasy.pcashclose.service.ejb
+com.payeasy.pcashclose.service.exception
+com.payeasy.pcashclose.service.util
