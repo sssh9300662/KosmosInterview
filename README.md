@@ -1,7 +1,7 @@
 # KosmosInterview
 Kosmos Interview
 
-This sample code is used to handle the following virtual currency transaction:
+This sample code is used to handle the following virtual currency transaction:<br>
 1. Save cash
 2. Deduct cash
 3. Cancel transaction
